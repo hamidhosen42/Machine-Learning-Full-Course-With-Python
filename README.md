@@ -101,36 +101,61 @@ Module 7. Classification Models in Machine Learning:
 Module 8: Regression Models in Machine Learning:
 
 	8.1.1. Linear Regression – Theory & Basics
+	
 	8.1.2. Linear Regression – Building from Scratch
+	
 	8.2.1. Lasso Regression – Theory & Basics
+	
 	8.2.2. Lasso Regression – Building from Scratch
+	
 	8.3.1. Logistic Regression – Theory & Math
+	
 	8.3.2. Logistic Regression – Building from Scratch
+	
 	8.4.1. Support Vector Machine Regression – Theory & Math
-	8.4.2. Support Vector Machine Regression – Building from Scratch 
+	
+	8.4.2. Support Vector Machine Regression – Building from Scratch
+	
 	8.5.1. Decision Tree Regression – Theory & Math
+	
 	8.5.2. Decision Tree Regression – Building from Scratch
+	
 	8.6.1. Random Forest Regression – Theory & Math
+	
 	8.6.2. Random Forest Regression – Building from Scratch
   
 Module 9: Clustering Models in Machine Learning
+
 	9.1.1.  K-Means Clustering – Theory & math
+	
 	9.1.2. K-Means Clustering – Building from Scratch
+	
 	9.2.1. Hierarchical Clustering – Theory & Math
+	
 	9.2.2. Hierarchical Clustering – Building from Scratch
   
 Module 10: Association Models in Machine Learning:
+
 	10.1.1. Apriori – Theory & Basics
+	
 	10.1.2. Apriori – Building from Scratch
+	
 	10.2.1. Eclat – Theory & Math
+	
 	10.2.2. Eclat – Building from Scratch
   
 Module 11: Machine Learning Projects with Python:
+
 	Project 1: Face Recognition system 
+	
 	Project 2: SONAR Rock vs Mine Prediction
+	
 	Project 3: Diabetes Prediction with Python
+	
 	Project 4: House Price Prediction with Python
+	
 	Project 5: Fake News Prediction with Python
+	
 	Project 6: Loan Status Prediction with Python
 
 
