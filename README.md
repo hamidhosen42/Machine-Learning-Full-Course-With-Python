@@ -2,7 +2,7 @@
 Machine Learning Full Course Beginner to Advanced pdf = [Curriculum for Machine Learning Course.pdf](https://github.com/hamidhosen42/Machine-Learning-Full-Course-With-Python/files/7686904/Curriculum.for.Machine.Learning.Course.pdf)
 
 
-Module 1: Machine Learning Basics:
+#### Module 1: Machine Learning Basics:
 
         1.1. Artificial Intelligence vs Machine Learning vs Deep Learning
 	
