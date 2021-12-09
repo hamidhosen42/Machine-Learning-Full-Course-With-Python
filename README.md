@@ -1,7 +1,9 @@
 # Machine-Learning-Full-Course-With-Python
 Machine Learning Full Course Beginner to Advanced pdf = [Curriculum for Machine Learning Course.pdf](https://github.com/hamidhosen42/Machine-Learning-Full-Course-With-Python/files/7686904/Curriculum.for.Machine.Learning.Course.pdf)
 
+
 Module 1: Machine Learning Basics:
+
         1.1. Artificial Intelligence vs Machine Learning vs Deep Learning
 	
         1.2. Types of Machine Learning: Supervised, Unsupervised & Reinforcement Learning
@@ -13,54 +15,91 @@ Module 1: Machine Learning Basics:
         1.5. Deep Learning – Basics
 
 Module 2: Python Basics for Machine Learning:
+
 	2.1. Google Colaboratory for Python – Getting Systems Ready
+	
 	2.2. Python Basics
+	
 	2.3. Python Basic Data Types – int, float, string, complex, boolean
+	
 	2.4. Python Special Data Types – List, Tuple, Set, Dictionary 
+	
 	2.5. Operators in Python
+	
 	2.6. if else Statement in Python
+	
 	2.7. Loops in Python – For Loop & While Loop
+	
 	2.8. Functions in Python
   
 Module 3: Python Libraries Tutorial for Machine Learning:
+
 	3.1. Complete Numpy Tutorial for ML
+	
 	3.2. Complete Pandas Tutorial for ML
+	
 	3.3. Complete Matplotlib & Seaborn Tutorial for ML
+	
 	3.4. Complete Sklearn Tutorial for ML
 
 Module 4: Data Collection & Processing:
+
 	4.1. Where to collect Data & How to collect Data
+	
 	4.2. Importing Data through Kaggle API
+	
 	4.3. Handling Missing Values
+	
 	4.4. Data Standardization
   
 Module 5: Math Basics for Machine Learning:
+
 	5.1. Linear Algebra
+	
 	5.2. Calculus
+	
 	5.3. Statistics
+	
 	5.4. Probability
   
 Module 6: Training the Machine Learning Models:
+
 	6.1. What is a Machine Learning Model
+	
 	6.2. How to select a model for training
+	
 	6.3. Model Optimization Techniques
+	
 	6.4. Model Evaluation
   
 Module 7. Classification Models in Machine Learning:
+
 	7.1.1. Logistic Regression – Theory & Math
+	
 	7.1.2. Logistic Regression – Building from Scratch
+	
 	7.2.1. Support Vector Machines (SVM) – Theory & Math
+	
 	7.2.2. Support Vector Machines (SVM) – Building from Scratch
+	
 	7.3.1. Decision Tree Classification – Theory & Math
+	
 	7.3.2. Decision Tree Classification – Building from Scratch
+	
 	7.4.1. Random Forest Classification – Theory & Math
+	
 	7.4.2. Random Forest Classification – Building from Scratch
+	
 	7.5.1. Naive Bayes – Theory & Math
+	
 	7.5.2. Naive Bayes – Building from Scratch
+	
 	7.6.1. K-Nearest Neighbors – Theory & Basics
+	
 	7.6.2. K-Nearest Neighbors – Building from Scratch
 
 Module 8: Regression Models in Machine Learning:
+
 	8.1.1. Linear Regression – Theory & Basics
 	8.1.2. Linear Regression – Building from Scratch
 	8.2.1. Lasso Regression – Theory & Basics
