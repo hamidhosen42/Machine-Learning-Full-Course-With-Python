@@ -2,11 +2,15 @@
 Machine Learning Full Course Beginner to Advanced pdf = [Curriculum for Machine Learning Course.pdf](https://github.com/hamidhosen42/Machine-Learning-Full-Course-With-Python/files/7686904/Curriculum.for.Machine.Learning.Course.pdf)
 
 Module 1: Machine Learning Basics:
-1.1. Artificial Intelligence vs Machine Learning vs Deep Learning
-1.2. Types of Machine Learning: Supervised, Unsupervised & Reinforcement Learning
-1.3. Supervised Learning & its Types
-1.4. Unsupervised Learning & its Types
-1.5. Deep Learning – Basics
+        1.1. Artificial Intelligence vs Machine Learning vs Deep Learning
+	
+        1.2. Types of Machine Learning: Supervised, Unsupervised & Reinforcement Learning
+	
+        1.3. Supervised Learning & its Types
+	
+        1.4. Unsupervised Learning & its Types
+	
+        1.5. Deep Learning – Basics
 
 Module 2: Python Basics for Machine Learning:
 	2.1. Google Colaboratory for Python – Getting Systems Ready
