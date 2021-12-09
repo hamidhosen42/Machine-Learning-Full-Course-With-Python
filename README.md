@@ -14,7 +14,7 @@ Machine Learning Full Course Beginner to Advanced pdf = [Curriculum for Machine 
 	
         1.5. Deep Learning – Basics
 
-Module 2: Python Basics for Machine Learning:
+#### Module 2: Python Basics for Machine Learning:
 
 	2.1. Google Colaboratory for Python – Getting Systems Ready
 	
@@ -32,7 +32,7 @@ Module 2: Python Basics for Machine Learning:
 	
 	2.8. Functions in Python
   
-Module 3: Python Libraries Tutorial for Machine Learning:
+#### Module 3: Python Libraries Tutorial for Machine Learning:
 
 	3.1. Complete Numpy Tutorial for ML
 	
@@ -42,7 +42,7 @@ Module 3: Python Libraries Tutorial for Machine Learning:
 	
 	3.4. Complete Sklearn Tutorial for ML
 
-Module 4: Data Collection & Processing:
+#### Module 4: Data Collection & Processing:
 
 	4.1. Where to collect Data & How to collect Data
 	
@@ -52,7 +52,7 @@ Module 4: Data Collection & Processing:
 	
 	4.4. Data Standardization
   
-Module 5: Math Basics for Machine Learning:
+#### Module 5: Math Basics for Machine Learning:
 
 	5.1. Linear Algebra
 	
@@ -62,7 +62,7 @@ Module 5: Math Basics for Machine Learning:
 	
 	5.4. Probability
   
-Module 6: Training the Machine Learning Models:
+#### Module 6: Training the Machine Learning Models:
 
 	6.1. What is a Machine Learning Model
 	
@@ -72,7 +72,7 @@ Module 6: Training the Machine Learning Models:
 	
 	6.4. Model Evaluation
   
-Module 7. Classification Models in Machine Learning:
+#### Module 7. Classification Models in Machine Learning:
 
 	7.1.1. Logistic Regression – Theory & Math
 	
@@ -98,7 +98,7 @@ Module 7. Classification Models in Machine Learning:
 	
 	7.6.2. K-Nearest Neighbors – Building from Scratch
 
-Module 8: Regression Models in Machine Learning:
+#### Module 8: Regression Models in Machine Learning:
 
 	8.1.1. Linear Regression – Theory & Basics
 	
@@ -124,7 +124,7 @@ Module 8: Regression Models in Machine Learning:
 	
 	8.6.2. Random Forest Regression – Building from Scratch
   
-Module 9: Clustering Models in Machine Learning
+#### Module 9: Clustering Models in Machine Learning
 
 	9.1.1.  K-Means Clustering – Theory & math
 	
@@ -134,7 +134,7 @@ Module 9: Clustering Models in Machine Learning
 	
 	9.2.2. Hierarchical Clustering – Building from Scratch
   
-Module 10: Association Models in Machine Learning:
+#### Module 10: Association Models in Machine Learning:
 
 	10.1.1. Apriori – Theory & Basics
 	
@@ -144,7 +144,7 @@ Module 10: Association Models in Machine Learning:
 	
 	10.2.2. Eclat – Building from Scratch
   
-Module 11: Machine Learning Projects with Python:
+#### Module 11: Machine Learning Projects with Python:
 
 	Project 1: Face Recognition system 
 	
